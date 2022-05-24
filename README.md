@@ -6,7 +6,7 @@
 <i>(Main drawing of the final vehicle.)</i>
 
 <p>
- <img src="https://user-images.githubusercontent.com/33667517/170029921-6d64b288-6b57-4aa2-9877-1a9bdb55079b.jpg" width="360"/>
- <img src="https://user-images.githubusercontent.com/33667517/170029888-42a525dc-e21f-49f6-86e0-1ab4fb14c7a3.jpg" width="645"/></br>
+ <img src="https://user-images.githubusercontent.com/33667517/170029921-6d64b288-6b57-4aa2-9877-1a9bdb55079b.jpg" width="35%"/>
+ <img src="https://user-images.githubusercontent.com/33667517/170029888-42a525dc-e21f-49f6-86e0-1ab4fb14c7a3.jpg" width="64%"/></br>
 <i>(Topview and sideview of the interior.) $~~~~~~~~~~~~~~~~~~~~~$ (Visualisation from Panorama view.)</i>
 </p>
