@@ -78,6 +78,6 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
 <i>(Topview and sideview of the interior.) $~~~~~~~~~~~~~~~~~~~~~$ (Visualisation from Panorama view.)</i>
 </p>
 
-![Unimog_dimensions](https://user-images.githubusercontent.com/33667517/170139110-5947ad9b-2b33-4ac2-bc93-48f9705a86fb.jpg)
-<i>(Unimog 404 2900mm wheelbase dimensions)</i>
+![Unimog_dimensions](https://user-images.githubusercontent.com/33667517/170139110-5947ad9b-2b33-4ac2-bc93-48f9705a86fb.jpg)</br>
+(<i>Unimog 404 2900mm wheelbase dimensions from </i>[source](https://dday.migeater.net/wiki/index.php?title=Unimog_404))
 
