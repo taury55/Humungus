@@ -26,7 +26,7 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
   </td>
   <td> <b>Engine</b>
   </td>
-  <td> M180, M130, OM615 (Diesel)
+  <td> M180
   </td>
  </tr>
  <tr>
@@ -36,7 +36,7 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
   </td>
   <td> <b>Power</b>
   </td>
-  <td> 60-81kW
+  <td> 60kW
   </td>
  </tr>
  <tr>
@@ -46,7 +46,7 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
   </td>
   <td> <b>Engine Volume</b>
   </td>
-  <td> 2.200cc (Diesel, Benzin), 2.800cc (Benzin)
+  <td> 2.200cc (Benzin)
   </td>
  </tr>
  <tr>
@@ -56,13 +56,13 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
   </td>
   <td> <b>Fuel</b>
   </td>
-  <td> Diesel, Benzin (atmosphere)
+  <td> Benzin (atmosphere)
   </td>
  </tr>
  <tr>
   <td> <b>Weight</b>
   </td>
-  <td> 2970 kg
+  <td> 2500 kg
   </td>
   <td> <b>Tanks</b>
   </td>
@@ -80,4 +80,17 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
 
 ![Unimog_dimensions](https://user-images.githubusercontent.com/33667517/170139110-5947ad9b-2b33-4ac2-bc93-48f9705a86fb.jpg)</br>
 (<i>Unimog 404 2900mm wheelbase dimensions from </i>[source](https://dday.migeater.net/wiki/index.php?title=Unimog_404))
+-4226-8a78-d62314db20c1.jpg)
 
+
+
+<p>
+ <img src="https://user-images.githubusercontent.com/33667517/172230347-d670ffdb-0b6c-4456-a8a6-92a0d7f3176f.jpg" width="49%"/>
+ <img src="https://user-images.githubusercontent.com/33667517/172230390-583c65b0-9206-462f-9156-ee38b8992e70.jpg" width="49%"/></br>
+<i>(Unimog 404 114 from Poland, originaly French truck.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Back view of car lifting mechanism.)</i>
+</p>
+<p>
+ <img src="https://user-images.githubusercontent.com/33667517/172230039-f5fafb93-ccde-4661-b78b-1b4cfe7a530b.jpg" width="56%"/>
+ <img src="https://user-images.githubusercontent.com/33667517/172230378-23895eaa-ac9c-423b-83a9-a132d1d25885.JPEG" width="43%"/></br>
+<i>(Sideview of the interior of truck when we arrived.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Close view of the cabine and it's corrosion. :D)</i>
+</p>
