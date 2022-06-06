@@ -87,10 +87,10 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
 <p>
  <img src="https://user-images.githubusercontent.com/33667517/172230347-d670ffdb-0b6c-4456-a8a6-92a0d7f3176f.jpg" width="49%"/>
  <img src="https://user-images.githubusercontent.com/33667517/172230390-583c65b0-9206-462f-9156-ee38b8992e70.jpg" width="49%"/></br>
-<i>(Unimog 404 114 from Poland, originaly French truck.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Back view of car lifting mechanism.)</i>
+<i>(Unimog 404 114 from Poland, originaly French truck.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Back view of car lifting mechanism.)</i>
 </p>
 <p>
  <img src="https://user-images.githubusercontent.com/33667517/172230039-f5fafb93-ccde-4661-b78b-1b4cfe7a530b.jpg" width="56%"/>
  <img src="https://user-images.githubusercontent.com/33667517/172230378-23895eaa-ac9c-423b-83a9-a132d1d25885.JPEG" width="43%"/></br>
-<i>(Sideview of the interior of truck when we arrived.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Close view of the cabine and it's corrosion. :D)</i>
+<i>(Sideview of the interior of truck when we arrived.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Close view of the cabine and it's corrosion. :D)</i>
 </p>
