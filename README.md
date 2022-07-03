@@ -82,7 +82,7 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
 (<i>Unimog 404 2900mm wheelbase dimensions from </i>[source](https://dday.migeater.net/wiki/index.php?title=Unimog_404))
 -4226-8a78-d62314db20c1.jpg)
 
-
+## Unimog 404 in Poland
 
 <p>
  <img src="https://user-images.githubusercontent.com/33667517/172230347-d670ffdb-0b6c-4456-a8a6-92a0d7f3176f.jpg" width="49%"/>
@@ -93,4 +93,15 @@ Vehicle is based on famous Unimog Mercedes-Benz series [(short document)](https:
  <img src="https://user-images.githubusercontent.com/33667517/172230039-f5fafb93-ccde-4661-b78b-1b4cfe7a530b.jpg" width="56%"/>
  <img src="https://user-images.githubusercontent.com/33667517/172230378-23895eaa-ac9c-423b-83a9-a132d1d25885.JPEG" width="43%"/></br>
 <i>(Sideview of the interior of truck when we arrived.) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ (Close view of the cabine and it's corrosion. :D)</i>
+</p>
+
+## 3D Scan of Unimog 404
+
+<p>
+ <img src="https://user-images.githubusercontent.com/33667517/177019794-d9400488-9fdb-4763-99f0-d4797a98ea82.png" width="33%"/>
+ <img src="https://user-images.githubusercontent.com/33667517/177019797-8e819c9f-a028-4afa-9df9-f40f1628ebdb.png" width="33%"/>
+ <img src="https://user-images.githubusercontent.com/33667517/177019802-65d1077d-491c-4a93-a9a1-ffc57ccefa2b.png" width="33%"/></br>
+<i> </i>
+ <img src="https://user-images.githubusercontent.com/33667517/177019798-eedc431b-a8ed-4cba-aef5-ebd5641fe611.png" width="33%"/>
+ <img src="https://user-images.githubusercontent.com/33667517/177019800-f5b4e874-34da-4abe-9a85-ea7432aed789.png" width="33%"/></br>
 </p>
